@@ -13,3 +13,8 @@ status-website: # Status website (optional)
   name: Status # Status website title
   introTitle: Dylan Meca's websites status
   introMessage: Welcome to the status page of the developer Dylan Meca's websites.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
