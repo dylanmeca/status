@@ -3,6 +3,8 @@ repo: status # GitHub repository name
 sites: # List of endpoints to track
   - name: Dylan Meca
     url: https://dylanmeca.github.io
+  - name: Google
+    url: https://google.com
 assignees: # Users to assign downtime issues (optional)
   - dylanmeca
 status-website: # Status website (optional)
