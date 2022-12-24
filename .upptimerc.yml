@@ -8,3 +8,4 @@ assignees: # Users to assign downtime issues (optional)
 status-website: # Status website (optional)
   #cname: upptime.js.org # Custom domain CNAME
   name: Status # Status website title
+  introMessage: Welcome to the status page of the developer Dylan Meca's websites.
