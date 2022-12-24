@@ -3,9 +3,12 @@ repo: status # GitHub repository name
 sites: # List of endpoints to track
   - name: Dylan Meca
     url: https://dylanmeca.github.io
+  - name: Termux Legacy Repo
+    url: https://dylanmeca.github.io/termux-legacy-repo/
 assignees: # Users to assign downtime issues (optional)
   - dylanmeca
 status-website: # Status website (optional)
   #cname: upptime.js.org # Custom domain CNAME
   name: Status # Status website title
+  introTitle: Dylan Meca's websites status
   introMessage: Welcome to the status page of the developer Dylan Meca's websites.
