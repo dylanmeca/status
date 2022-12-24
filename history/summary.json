@@ -1,7 +1,7 @@
 [
   {
     "name": "Dylan Meca",
-    "url": "https://dylanmeca.github.io/",
+    "url": "https://dylanmeca.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/dylanmeca.github.io.ico",
     "slug": "dylan-meca",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 115,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   }
 ]
