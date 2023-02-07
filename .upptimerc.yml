@@ -5,6 +5,8 @@ sites: # List of endpoints to track
     url: https://dylanmeca.github.io
   - name: Termux Legacy Repo
     url: https://dylanmeca.github.io/termux-legacy-repo/
+  - name: MecaU
+    url: https://dylanmeca.github.io/MecaU/
 assignees: # Users to assign downtime issues (optional)
   - dylanmeca
 status-website: # Status website (optional)
