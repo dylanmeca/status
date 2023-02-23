@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 111,
-    "timeWeek": 95,
-    "timeMonth": 201,
-    "timeYear": 140,
+    "time": 139,
+    "timeDay": 116,
+    "timeWeek": 98,
+    "timeMonth": 199,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 33,
-    "timeWeek": 44,
+    "timeDay": 40,
+    "timeWeek": 45,
     "timeMonth": 48,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 38,
-    "timeDay": 34,
-    "timeWeek": 39,
-    "timeMonth": 38,
-    "timeYear": 38,
+    "time": 39,
+    "timeDay": 40,
+    "timeWeek": 40,
+    "timeMonth": 39,
+    "timeYear": 39,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ChatGPT-Python",
-    "url": "https://dylanmeca-chatgpt-python.hf.space/",
-    "icon": "https://icons.duckduckgo.com/ip3/dylanmeca-chatgpt-python.hf.space.ico",
-    "slug": "chat-gpt-python",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
-    "dailyMinutesDown": {
-      "2023-02-23": 0
-    }
   }
 ]
