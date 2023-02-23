@@ -7,8 +7,6 @@ sites: # List of endpoints to track
     url: https://dylanmeca.github.io/termux-legacy-repo/
   - name: MecaU
     url: https://dylanmeca.github.io/MecaU/
-  - name: ChatGPT-Python
-    url: https://dylanmeca-chatgpt-python.hf.space/
 assignees: # Users to assign downtime issues (optional)
   - dylanmeca
 status-website: # Status website (optional)
